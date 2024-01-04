@@ -1,223 +1,201 @@
-Awesome Robotics
-================
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-This is a list of various books, courses and other resources for robotics. It's an attempt to gather useful material in one place for everybody who wants to learn more about the field.
-
-
-### Courses ###
-* [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) **Udacity**
-* [Robotics Nanodegree](https://www.udacity.com/course/robotics-software-engineer--nd209) **Udacity** :dollar:
-* [Autonomous Mobile Robots](https://courses.edx.org/courses/course-v1:ETHx+AMRx+2T2019/5b151c51e8bf47c29d97f8a12369df17/) **edX**
-* [Underactuated Robotics](http://underactuated.csail.mit.edu/underactuated.html) **MIT CSAIL**
-* [Autonomous Mobile Robots](https://courses.edx.org/courses/ETHx/AMRx/1T2014/info) **edX**
-* [Robot Mechanics and Control, Part I](https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x) **edX**
-* [Robot Mechanics and Control, Part II](https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x) **edX**
-* [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0) **edX**
-* [Robotics Specialization by GRASP Lab](https://www.coursera.org/specializations/robotics) **Coursera** :dollar:
-* [Control of Mobile Robots](https://www.coursera.org/course/conrob) **Coursera**
-* [QUT Robot Academy](https://robotacademy.net.au/) **QUT**
-* [Robotic vision](https://www.qut.edu.au/study/short-courses-and-professional-development/short-courses/robotic-vision) **QUT**
-* [Introduction to robotics](http://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/) **MIT**
-* [Robotics: Vision Intelligence and Machine Learning](https://www.edx.org/course/robotics-vision-intelligence-machine-pennx-robo2x) **edX**
-* [Applied robot design](https://www.youtube.com/user/StanfordCS235/videos) **Stanford University**
-* [Introduction to Robotics](https://see.stanford.edu/Course/CS223A) **Stanford University**
-* [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php) **University of Freiburg**
-* [Robotics](https://www.edx.org/micromasters/pennx-robotics) **edx** :dollar:
-* [Columbia Robotics](https://www.edx.org/course/robotics-columbiax-csmm-103x-2) **edx** 
-* [Modern Robotics: Mechanics, Planning, and Control](https://www.coursera.org/specializations/modernrobotics?) **Coursera**
-* [Hello (Real) World with ROS – Robot Operating System](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system-2) **edx**
-* [Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/) **UCBerkeley**
-* [Building Arduino robots and devices](https://www.coursera.org/learn/arduino) **Coursera**
-* [Introduction to The Robot Operating System (ROS2)](https://www.coursera.org/projects/ros2-intro) **Coursera**
-* [Modern Robotics: Mechanics, Planning, and Control Specialization](https://www.coursera.org/specializations/modernrobotics) **Coursera**
-* [Become a Robotics Software Enginee](https://www.udacity.com/course/robotics-software-engineer--nd209) **Udacity**
-* [Advanced Robotics](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/) **UC Berkeley**
-
-### Books ###
-* [Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)  :dollar:
-* [Introduction to Autonomous Mobile Robots (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Introduction-Autonomous-Mobile-Intelligent-Robotics/dp/0262015358/)  :dollar:
-* [Springer Handbook of Robotics](https://www.amazon.com/Springer-Handbook-Robotics-Handbooks/dp/3319325507/)  :dollar:
-* [Planning Algorithms](http://planning.cs.uiuc.edu/)
-* [A gentle introduction to ROS](https://cse.sc.edu/~jokane/agitr/agitr-letter.pdf)
-* [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition)
-* [Learning Computing With Robots](http://wiki.roboteducation.org/Introduction_to_Computer_Science_via_Robots)
-* [Robotics, Vision and Control: Fundamental Algorithms in MATLAB (Springer Tracts in Advanced Robotics)](http://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431)  :dollar:
-* [INTECH Books](http://www.intechopen.com/subjects/robotics)
-* [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases)
-* [Principles of Robot Motion: Theory, Algorithms, and Implementations ](https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275):dollar:
-* [Introduction to Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/LynchAndPark) [[pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)]
-* [Programming Robots with ROS: A Practical Introduction to the Robot Operating System](https://www.amazon.com/Programming-Robots-ROS-Practical-Introduction/dp/1449323898/) :dollar:
-* [Learning ROS for Robotics Programming](https://www.amazon.com/Learning-ROS-Robotics-Programming-Second/dp/1783987588) :dollar:
-* [Mastering ROS for Robotics Programming](https://www.amazon.com/Mastering-Robotics-Programming-Lentin-Joseph/dp/1783551798) :dollar:
-* [Behavior Trees in Robotics and AI: An Introduction](https://btirai.github.io/) [[pdf](https://arxiv.org/pdf/1709.00084)]
-* [Automated Planning and Acting](http://projects.laas.fr/planning/) [[pdf](http://projects.laas.fr/planning/book.pdf)]
-* [Robotics for Software Engineers](https://www.manning.com/books/robotics-for-software-engineers) :dollar:
-
-
-### Software and Libraries ###
-[**Gazebo**](http://gazebosim.org/)
-Robot Simulator
-
-[**ROS**](http://www.ros.org/)
-The Robot Operating System (ROS) is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.
-
-[**ROS2**](https://index.ros.org/doc/ros2/)
-ROS2 is a new version of ROS with radical design changes and improvement over older ROS version.
-
-[**RobWork**](http://www.robwork.dk/apidoc/nightly/rw/)
-RobWork is a collection of C++ libraries for simulation and control of robot systems. RobWork is used for research and education as well as for practical robot applications.
-
-[**MRPT**](http://www.mrpt.org/)
-Mobile Robot Programming Toolkit provides developers with portable and well-tested applications and libraries covering data structures and algorithms employed in common robotics research areas.
-
-[**Robotics Library**](http://www.roboticslibrary.org/)
-The Robotics Library (RL) is a self-contained C++ library for robot kinematics, motion planning and control. It covers mathematics, kinematics and dynamics, hardware abstraction, motion planning, collision detection, and visualization.
-
-[**Simbad**](http://simbad.sourceforge.net/)
-2D/3D simulator in Java and Jython.
-
-[**Morse**](https://www.openrobots.org/wiki/morse/)
-General purpose indoor/outdoor 3D simulator.
-
-[**Carmen**](http://carmen.sourceforge.net/)
-CARMEN is an open-source collection of software for mobile robot control. CARMEN is modular software designed to provide basic navigation primitives including: base and sensor control, logging, obstacle avoidance, localization, path planning, and mapping.
-
-[**Peekabot**](http://www.peekabot.org/)
-Peekabot is a real-time, networked 3D visualization tool for robotics, written in C++. Its purpose is to simplify the visualization needs faced by a roboticist daily.
-
-[**YARP**](http://www.yarp.it/)
-Yet Another Robot Platform.
-
-[**V-REP**](http://www.coppeliarobotics.com/)
-Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Java, Matlab, URBI, 2 physics engines, full kinematic solver.
-
-[**Webots**](https://www.cyberbotics.com/overview)
-Webots is a development environment used to model, program and simulate mobile robots.
-
-[**Drake**](http://drake.mit.edu/)
-A planning, control and analysis toolbox for nonlinear dynamical systems.
-
-[**Neurorobotics Platform (NRP)**](https://neurorobotics.net/)
-An Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks.
-
-[**The Player Project**](http://playerstage.sourceforge.net/)
-Free Software tools for robot and sensor applications
-
-[**Open AI's Roboschool**](https://github.com/openai/roboschool)
-Open-source software for robot simulation, integrated with OpenAI Gym.
-
-[**ViSP**](http://visp.inria.fr/)
-Open-source visual servoing platform library, is able to compute control laws that can be applied to robotic systems.
-
-[**ROS Behavior Trees**](https://github.com/miccol/ROS-Behavior-Tree)
-Open-source library to create robot's behaviors in form of Behavior Trees running in ROS (Robot Operating System).
-
-[**g2core**](https://github.com/synthetos/g2)
-Open-source motion control software for CNC and Robotics, designed to run on Arduino Due class microcontrollers.
-
-[**ur5controller**](https://github.com/roboticsleeds/ur5controller)
-Open-source OpenRAVE controller for UR5 robot integrated with ROS.
-
-[**RBDL**](https://github.com/rbdl/rbdl)
-Open-source (zlib) C++ libray for both forward and inverse dynamics and kinematics. Also supports contacts and loops.
-
-[**Unity Robotics Hub**](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
-Central repository for open-source Unity packages, tutorials, and other resources demonstrating how to use Unity for robotics simulations. Includes new support for ROS integration.
-
-### Papers ###
-* [Optimization Based Controller Design and Implementation for the
-Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
-
-
-### Conferences ###
-* [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
-* [CISM IFToMM Symposium on Robot Design, Dynamics and Control (RoManSy)](http://www.romansy2016.org/)
-* [IEEE Conference on Decision and Controls (CDC)](http://ieeexplore.ieee.org/servlet/opac?punumber=1000188)
-* [IEEE International Conference on Rehabilitation Robotics (ICORR)](http://www.rehabrobotics.org/)
-* [IEEE International Conference on Robotics and Automation (ICRA)](http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
-* [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](http://www.iros.org/)
-* [IEEE-RAS International Conference on Humanoid Robots (Humanoids)](http://ieeexplore.ieee.org/servlet/opac?punumber=1002042)
-* [International Symposium of Robotic Research (ISRR)](http://ifrr.org/isrr.php)
-* [International Symposium of Experimental Robotics (ISER)](http://ifrr.org/iser.php)
-* [Robotica](http://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/robotica)
-* [Robotics: Science and Systems Conference (RSS)](http://www.roboticsconference.org/)
-* [The International Workshop on the Algorithmic Foundations of Robotics (WAFR)](http://www.wafr.org/)
-
-
-### Journals ###
-* [Autonomous Robots](http://www.springer.com/engineering/robotics/journal/10514)
-* [Bioinspiration & Biomimetics](http://iopscience.iop.org/journal/1748-3190)
-* [Frontiers in Robotics and AI](http://journal.frontiersin.org/journal/robotics-and-ai)
-* [IEEE Robotics & Automation Magazine](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)
-* [IEEE Transactions on Haptics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4543165)
-* [IEEE Transactions on Robotics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
-* [IEEE/ASME Transactions on Mechatronics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516)
-* [International Journal of Social Robotics](http://www.springer.com/engineering/robotics/journal/12369)
-* [Journal of Field Robotics](http://www.journalfieldrobotics.org/Home.html)
-* [Journal of Intelligent & Robotic Systems](http://www.springer.com/engineering/robotics/journal/10846)
-* [Mechatronics](http://www.journals.elsevier.com/mechatronics)
-* [Robotics and Computer-Integrated Manufacturing](http://www.journals.elsevier.com/robotics-and-computer-integrated-manufacturing)
-* [Robotics and Autonomous Systems](http://www.journals.elsevier.com/robotics-and-autonomous-systems)
-* [The International Journal of Robotics Research](http://www.ijrr.org/)
-
-
-### Competitions ###
-* [ICRA Robot Challenges](http://www.icra2017.org/conference/robot-challenges)
-* [RobotChallenge](http://www.robotchallenge.org/)
-* [DARPA Robotics Challenge](http://www.theroboticschallenge.org/)
-* [European Robotics Challenges](http://www.euroc-project.eu/)
-* [First Robotics Competition](http://www.firstinspires.org/robotics/frc)
-* [VEX Robotics Competition](https://www.vexrobotics.com/)
-* [RoboCup](http://www.robocup.org/)
-* [RoboCupJunior](https://junior.robocup.org/)
-* [Eurobot](http://www.eurobot.org/) International Students Robotics Contest
-* [RoboMasters](https://www.robomaster.com/en-US)
-* [RoboSoft, Grand Challenge](http://www.robosoftca.eu/)
-* [Intelligent Ground Vehicle Competition](http://www.igvc.org/)
-* [Robotex](https://robotex.ee/en/) The biggest robotics festival in Europe
-* [First Lego League](https://www.firstlegoleague.org/)
-
-### Companies ###
-* [Boston Dynamics](http://www.bostondynamics.com/) robotics R&D company, creator of the state of the art [Atlas](https://www.youtube.com/watch?v=rVlhMGQgDkY) and [Spot](https://www.youtube.com/watch?v=M8YjvHYbZ9w) robots
-* [iRobot](http://www.irobot.com/) manufacturer of the famous [Roomba](https://en.wikipedia.org/wiki/Roomba) robotic vacuum cleaner
-* [PAL Robotics](http://pal-robotics.com)
-* [Aldebaran Robotics](https://www.aldebaran.com/en) creator of the [NAO robot](https://www.youtube.com/watch?v=nNbj2G3GmAo)
-* [ABB Robotics](http://new.abb.com/products/robotics) the largest manufacturer of industrial robots
-* [KUKA Robotics](http://www.kuka-robotics.com/en/) major manufacturer of industrial robots targeted at factory automation
-* [FANUC](http://www.fanucamerica.com/) industrial robots manufacturer with the biggest install base
-* [Rethink Robotics](http://www.rethinkrobotics.com/) creator of the collaborative robot [Baxter](https://www.youtube.com/watch?v=fCML42boO8c)
-* [DJI](http://www.dji.com/) industry leader in drones for both commerical and industrial needs.
-* [The construct sim](http://www.theconstructsim.com/)  A cloud based tool for building modern, future-proof robot simulations.
-* [Fetch Robotics](http://www.fetchrobotics.com/) A robotics startup in San Jose, CA building the future of e-commerce fulfillment and R&D robots.
-* [Festo Robotics](https://www.festo.com/) Festo is known for making moving robots that move like animals such as the sea gull like SmartBird, jellyfish, butterflies and kangaroos.
-* [Neobotix](https://www.neobotix-robots.com/homepage) manufacturer of industrial, research and as well as custom mobile robots. 
-
-### Misc ###
-* [IEEE Spectrum Robotics](http://spectrum.ieee.org/robotics) robotics section of the IEEE Spectrum magazine
-* [MIT Technology Review Robotics](https://www.technologyreview.com/c/robotics/) robotics section of the MIT Technology Review magazine
-* [reddit robotics subreddit](https://www.reddit.com/r/robotics/)
-* [RosCON conference (video talks included)](http://roscon.ros.org/2015/)
-* [Carnegie Mellon Robotics Academy](http://education.rec.ri.cmu.edu/)
-* [Let's Make Robots](http://letsmakerobots.com/)
-* [How do I learn Robotics?](https://www.quora.com/How-do-I-learn-robotics)
-* [Free NXT Lego MindStorms NXT-G code tutorials](http://www.drgraeme.net/DrGraeme-free-NXT-G-tutorials/ChV4.htm)
-* [StackExachange Robotics community](https://robotics.stackexchange.com)
-* [47 Programmable robotic kits](http://www.intorobotics.com/47-programmable-robotic-kits/)
-* [Linorobot](https://linorobot.org/) A suite of DIY ROS compatible robots
-* [Hexapod Robot Simulator](https://github.com/mithi/hexapod) - Solve and visualize hexapod robot inverse kinematics and gaits in the web
-* [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Implementations of various robotics algorithms in python
-
-### Related awesome lists ###
-* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
-* [Awesome Gazebo](https://github.com/fkromer/awesome-gazebo)
-* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
-* [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
-* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
-* [Awesome ROS2](https://github.com/fkromer/awesome-ros2)
-* [Awesome RoboCupJunior Soccer](https://github.com/RoboCupJuniorTC/awesome-rcj-soccer)
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><h1 tabindex="-1" dir="auto"><a id="user-content-awesome-robotics" class="anchor" aria-hidden="true" tabindex="-1" href="#awesome-robotics"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">很棒的机器人</font></font></h1>
+<p dir="auto"><a href="https://github.com/sindresorhus/awesome"><img src="https://camo.githubusercontent.com/50cf39121274b3db22bf1bd72cbe25af9078e037441cb5b5bdef1cc9dc5eb2f7/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667" alt="惊人的" data-canonical-src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这是机器人技术的各种书籍、课程和其他资源的列表。</font><font style="vertical-align: inherit;">这是一种为每个想要更多地了解该领域的人收集有用材料的尝试。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-courses" class="anchor" aria-hidden="true" tabindex="-1" href="#courses"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">培训班</font></font></h3>
+<ul dir="auto">
+<li><a href="https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人人工智能</font></font></a> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Udacity</font></font></strong></li>
+<li><a href="https://www.udacity.com/course/robotics-software-engineer--nd209" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人纳米学位</font></font></a> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Udacity</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 💵</font></font></li>
+<li><a href="https://courses.edx.org/courses/course-v1:ETHx+AMRx+2T2019/5b151c51e8bf47c29d97f8a12369df17/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自主移动机器人</font></font></a> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">edX</font></font></strong></li>
+<li><a href="http://underactuated.csail.mit.edu/underactuated.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">欠驱动机器人</font></font></a> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MIT CSAIL</font></font></strong></li>
+<li><a href="https://courses.edx.org/courses/ETHx/AMRx/1T2014/info" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自主移动机器人</font></font></a> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">edX</font></font></strong></li>
+<li><a href="https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人力学与控制，第一部分</font></font></a> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">edX</font></font></strong></li>
+<li><a href="https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人力学与控制，第二部分</font></font></a> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">edX</font></font></strong></li>
+<li><a href="https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">飞行机器人的自主导航</font></font></a> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">edX</font></font></strong></li>
+<li><a href="https://www.coursera.org/specializations/robotics" rel="nofollow"><font style="vertical-align: inherit;"></font></a> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GRASP Lab Coursera</font></font></strong><font style="vertical-align: inherit;"><a href="https://www.coursera.org/specializations/robotics" rel="nofollow"><font style="vertical-align: inherit;">的机器人专业化</font></a><font style="vertical-align: inherit;">💵</font></font></li>
+<li><a href="https://www.coursera.org/course/conrob" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">移动机器人的控制</font></font></a> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Coursera</font></font></strong></li>
+<li><a href="https://robotacademy.net.au/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">昆士兰科技大学机器人学院</font></font></a> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">昆士兰科技大学</font></font></strong></li>
+<li><a href="https://www.qut.edu.au/study/short-courses-and-professional-development/short-courses/robotic-vision" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人视觉</font></font></a> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">QUT</font></font></strong></li>
+<li><a href="http://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/" rel="nofollow"><font style="vertical-align: inherit;"></font></a> <font style="vertical-align: inherit;"><strong><font style="vertical-align: inherit;">麻省理工学院</font></strong><a href="http://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/" rel="nofollow"><font style="vertical-align: inherit;">机器人学简介</font></a></font><strong><font style="vertical-align: inherit;"></font></strong></li>
+<li><a href="https://www.edx.org/course/robotics-vision-intelligence-machine-pennx-robo2x" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人技术：视觉智能和机器学习</font></font></a> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">edX</font></font></strong></li>
+<li><a href="https://www.youtube.com/user/StanfordCS235/videos" rel="nofollow"><font style="vertical-align: inherit;"></font></a> <font style="vertical-align: inherit;"><strong><font style="vertical-align: inherit;">斯坦福大学</font></strong><a href="https://www.youtube.com/user/StanfordCS235/videos" rel="nofollow"><font style="vertical-align: inherit;">应用机器人设计</font></a></font><strong><font style="vertical-align: inherit;"></font></strong></li>
+<li><a href="https://see.stanford.edu/Course/CS223A" rel="nofollow"><font style="vertical-align: inherit;"></font></a> <font style="vertical-align: inherit;"><strong><font style="vertical-align: inherit;">斯坦福大学</font></strong><a href="https://see.stanford.edu/Course/CS223A" rel="nofollow"><font style="vertical-align: inherit;">机器人学简介</font></a></font><strong><font style="vertical-align: inherit;"></font></strong></li>
+<li><a href="http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php" rel="nofollow"><font style="vertical-align: inherit;"></font></a> <font style="vertical-align: inherit;"><strong><font style="vertical-align: inherit;">弗莱堡大学</font></strong><a href="http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php" rel="nofollow"><font style="vertical-align: inherit;">移动机器人简介</font></a></font><strong><font style="vertical-align: inherit;"></font></strong></li>
+<li><a href="https://www.edx.org/micromasters/pennx-robotics" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人</font></font></a> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">edx</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 💵</font></font></li>
+<li><a href="https://www.edx.org/course/robotics-columbiax-csmm-103x-2" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">哥伦比亚机器人公司</font></font></a> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">edx</font></font></strong></li>
+<li><a href="https://www.coursera.org/specializations/modernrobotics?" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现代机器人技术：力学、规划和控制</font></font></a> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Coursera</font></font></strong></li>
+<li><a href="https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system-2" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hello（真实）世界与 ROS – 机器人操作系统</font></font></a> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">edx</font></font></strong></li>
+<li><a href="https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/" rel="nofollow"><font style="vertical-align: inherit;"></font></a> <font style="vertical-align: inherit;"><strong><font style="vertical-align: inherit;">加州大学伯克利分校</font></strong><a href="https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/" rel="nofollow"><font style="vertical-align: inherit;">先进机器人</font></a></font><strong><font style="vertical-align: inherit;"></font></strong></li>
+<li><a href="https://www.coursera.org/learn/arduino" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建 Arduino 机器人和设备</font></font></a> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Coursera</font></font></strong></li>
+<li><a href="https://www.coursera.org/projects/ros2-intro" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人操作系统 (ROS2) 简介</font></font></a> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Coursera</font></font></strong></li>
+<li><a href="https://www.coursera.org/specializations/modernrobotics" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现代机器人技术：力学、规划和控制专业</font></font></a> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Coursera</font></font></strong></li>
+<li><a href="https://www.udacity.com/course/robotics-software-engineer--nd209" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">成为一名机器人软件工程师</font></font></a> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Udacity</font></font></strong></li>
+<li><a href="http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/" rel="nofollow"><font style="vertical-align: inherit;"></font></a> <font style="vertical-align: inherit;"><strong><font style="vertical-align: inherit;">加州大学伯克利分校</font></strong><a href="http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/" rel="nofollow"><font style="vertical-align: inherit;">先进机器人</font></a></font><strong><font style="vertical-align: inherit;"></font></strong></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-books" class="anchor" aria-hidden="true" tabindex="-1" href="#books"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图书</font></font></h3>
+<ul dir="auto">
+<li><a href="http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">概率机器人学（智能机器人和自主代理系列）</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">   💵</font></font></li>
+<li><a href="http://www.amazon.com/Introduction-Autonomous-Mobile-Intelligent-Robotics/dp/0262015358/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自主移动机器人简介（智能机器人和自主代理系列）</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">   💵</font></font></li>
+<li><a href="https://www.amazon.com/Springer-Handbook-Robotics-Handbooks/dp/3319325507/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">施普林格机器人手册</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  💵</font></font></li>
+<li><a href="http://planning.cs.uiuc.edu/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">规划算法</font></font></a></li>
+<li><a href="https://cse.sc.edu/~jokane/agitr/agitr-letter.pdf" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ROS 的简单介绍</font></font></a></li>
+<li><a href="http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人操作的数学简介</font></font></a></li>
+<li><a href="http://wiki.roboteducation.org/Introduction_to_Computer_Science_via_Robots" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与机器人一起学习计算</font></font></a></li>
+<li><a href="http://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人、视觉和控制：MATLAB 中的基本算法（Springer Tracts in Advanced Robotics）</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">   💵</font></font></li>
+<li><a href="http://www.intechopen.com/subjects/robotics" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">英泰图书</font></font></a></li>
+<li><a href="https://github.com/correll/Introduction-to-Autonomous-Robots/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自主机器人简介</font></font></a></li>
+<li><a href="https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人运动原理：理论、算法和实现</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💵</font></font></li>
+<li><a href="http://hades.mech.northwestern.edu/index.php/LynchAndPark" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现代机器人学简介：力学、规划和控制</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[ </font></font><a href="http://hades.mech.northwestern.edu/images/7/7f/MR.pdf" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pdf</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ]</font></font></li>
+<li><a href="https://www.amazon.com/Programming-Robots-ROS-Practical-Introduction/dp/1449323898/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 ROS 进行机器人编程：机器人操作系统实用介绍</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💵</font></font></li>
+<li><a href="https://www.amazon.com/Learning-ROS-Robotics-Programming-Second/dp/1783987588" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">学习 ROS 进行机器人编程</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💵</font></font></li>
+<li><a href="https://www.amazon.com/Mastering-Robotics-Programming-Lentin-Joseph/dp/1783551798" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">掌握用于机器人编程的 ROS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 💵</font></font></li>
+<li><a href="https://btirai.github.io/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人和人工智能中的行为树：简介</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[ </font></font><a href="https://arxiv.org/pdf/1709.00084" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pdf</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ]</font></font></li>
+<li><a href="http://projects.laas.fr/planning/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动化规划和行动</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[ </font></font><a href="http://projects.laas.fr/planning/book.pdf" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pdf</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ]</font></font></li>
+<li><a href="https://www.manning.com/books/robotics-for-software-engineers" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">软件工程师的机器人</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💵</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-software-and-libraries" class="anchor" aria-hidden="true" tabindex="-1" href="#software-and-libraries"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">软件和库</font></font></h3>
+<p dir="auto"><a href="http://gazebosim.org/" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gazebo</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+机器人模拟器</font></font></p>
+<p dir="auto"><a href="http://www.ros.org/" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ROS</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+机器人操作系统 (ROS) 是用于编写机器人软件的灵活框架。</font><font style="vertical-align: inherit;">它是工具、库和约定的集合，旨在简化在各种机器人平台上创建复杂且强大的机器人行为的任务。</font></font></p>
+<p dir="auto"><a href="https://index.ros.org/doc/ros2/" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ROS2</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 
+ROS2 是 ROS 的新版本，对旧 ROS 版本进行了彻底的设计更改和改进。</font></font></p>
+<p dir="auto"><a href="http://www.robwork.dk/apidoc/nightly/rw/" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RobWork</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 
+RobWork 是用于机器人系统仿真和控制的 C++ 库的集合。</font><font style="vertical-align: inherit;">RobWork 用于研究和教育以及实际的机器人应用。</font></font></p>
+<p dir="auto"><a href="http://www.mrpt.org/" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MRPT</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+移动机器人编程工具包为开发人员提供了可移植且经过充分测试的应用程序和库，涵盖常见机器人研究领域中使用的数据结构和算法。</font></font></p>
+<p dir="auto"><a href="http://www.roboticslibrary.org/" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人库</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+机器人库 (RL) 是一个独立的 C++ 库，用于机器人运动学、运动规划和控制。</font><font style="vertical-align: inherit;">它涵盖数学、运动学和动力学、硬件抽象、运动规划、碰撞检测和可视化。</font></font></p>
+<p dir="auto"><a href="http://simbad.sourceforge.net/" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Java 和 Jython 中的Simbad</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 
+2D/3D 模拟器。</font></font></p>
+<p dir="auto"><a href="https://www.openrobots.org/wiki/morse/" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Morse</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+通用室内/室外 3D 模拟器。</font></font></p>
+<p dir="auto"><a href="http://carmen.sourceforge.net/" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Carmen</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 
+CARMEN 是用于移动机器人控制的开源软件集合。</font><font style="vertical-align: inherit;">CARMEN 是模块化软件，旨在提供基本的导航原语，包括：基础和传感器控制、日志记录、避障、定位、路径规划和地图绘制。</font></font></p>
+<p dir="auto"><a href="http://www.peekabot.org/" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Peekabot</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 
+Peekabot 是一种实时、网络化的机器人 3D 可视化工具，用 C++ 编写。</font><font style="vertical-align: inherit;">其目的是简化机器人专家日常面临的可视化需求。</font></font></p>
+<p dir="auto"><a href="http://www.yarp.it/" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YARP</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+又一个机器人平台。</font></font></p>
+<p dir="auto"><a href="http://www.coppeliarobotics.com/" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">V-REP</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+机器人模拟器，3D，可用源，Lua 脚本，C/C++ API，Python，Java，Matlab，URBI，2 个物理引擎，完整运动学解算器。</font></font></p>
+<p dir="auto"><a href="https://www.cyberbotics.com/overview" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Webots</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 
+Webots 是一个用于建模、编程和模拟移动机器人的开发环境。</font></font></p>
+<p dir="auto"><a href="http://drake.mit.edu/" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Drake</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+用于非线性动力系统的规划、控制和分析工具箱。</font></font></p>
+<p dir="auto"><a href="https://neurorobotics.net/" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">神经机器人平台 (NRP)</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+一种可通过互联网访问的模拟系统，允许模拟由尖峰神经网络控制的机器人。</font></font></p>
+<p dir="auto"><a href="http://playerstage.sourceforge.net/" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Player Project</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+用于机器人和传感器应用的免费软件工具</font></font></p>
+<p dir="auto"><a href="https://github.com/openai/roboschool"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Open AI 的 Roboschool</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+用于机器人模拟的开源软件，与 OpenAI Gym 集成。</font></font></p>
+<p dir="auto"><a href="http://visp.inria.fr/" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ViSP</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+开源视觉伺服平台库，能够计算可应用于机器人系统的控制律。</font></font></p>
+<p dir="auto"><a href="https://github.com/miccol/ROS-Behavior-Tree"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ROS 行为树</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+开源库，以在 ROS（机器人操作系统）中运行的行为树的形式创建机器人的行为。</font></font></p>
+<p dir="auto"><a href="https://github.com/synthetos/g2"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">g2core</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+用于 CNC 和机器人技术的开源运动控制软件，设计用于在 Arduino Due 类微控制器上运行。</font></font></p>
+<p dir="auto"><a href="https://github.com/roboticsleeds/ur5controller"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ur5controller</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+用于与 ROS 集成的 UR5 机器人的开源 OpenRAVE 控制器。</font></font></p>
+<p dir="auto"><a href="https://github.com/rbdl/rbdl"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RBDL</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+开源 (zlib) C++ 库，用于正向和反向动力学和运动学。</font><font style="vertical-align: inherit;">还支持联系人和循环。</font></font></p>
+<p dir="auto"><a href="https://github.com/Unity-Technologies/Unity-Robotics-Hub"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Unity Robotics Hub</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+开源 Unity 包、教程和其他资源的中央存储库，演示如何使用 Unity 进行机器人模拟。</font><font style="vertical-align: inherit;">包括对 ROS 集成的新支持。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-papers" class="anchor" aria-hidden="true" tabindex="-1" href="#papers"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件</font></font></h3>
+<ul dir="auto">
+<li><a href="https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DARPA 机器人挑战赛决赛中 Atlas 机器人基于优化的控制器设计与实现</font></font></a></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-conferences" class="anchor" aria-hidden="true" tabindex="-1" href="#conferences"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">会议</font></font></h3>
+<ul dir="auto">
+<li><a href="http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ACM/IEEE 人机交互国际会议 (HRI)</font></font></a></li>
+<li><a href="http://www.romansy2016.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CISM IFToMM 机器人设计、动力学和控制研讨会 (RoManSy)</font></font></a></li>
+<li><a href="http://ieeexplore.ieee.org/servlet/opac?punumber=1000188" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 决策与控制会议 (CDC)</font></font></a></li>
+<li><a href="http://www.rehabrobotics.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 国际康复机器人会议 (ICORR)</font></font></a></li>
+<li><a href="http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 国际机器人与自动化会议 (ICRA)</font></font></a></li>
+<li><a href="http://www.iros.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE/RSJ 智能机器人与系统国际会议 (IROS)</font></font></a></li>
+<li><a href="http://ieeexplore.ieee.org/servlet/opac?punumber=1002042" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE-RAS 国际人形机器人会议（Humanoids）</font></font></a></li>
+<li><a href="http://ifrr.org/isrr.php" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">国际机器人研究研讨会（ISRR）</font></font></a></li>
+<li><a href="http://ifrr.org/iser.php" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">国际实验机器人研讨会（ISER）</font></font></a></li>
+<li><a href="http://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/robotica" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人</font></font></a></li>
+<li><a href="http://www.roboticsconference.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人技术：科学与系统会议 (RSS)</font></font></a></li>
+<li><a href="http://www.wafr.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人算法基础国际研讨会 (WAFR)</font></font></a></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-journals" class="anchor" aria-hidden="true" tabindex="-1" href="#journals"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">期刊</font></font></h3>
+<ul dir="auto">
+<li><a href="http://www.springer.com/engineering/robotics/journal/10514" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自主机器人</font></font></a></li>
+<li><a href="http://iopscience.iop.org/journal/1748-3190" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生物灵感与仿生学</font></font></a></li>
+<li><a href="http://journal.frontiersin.org/journal/robotics-and-ai" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人和人工智能前沿</font></font></a></li>
+<li><a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 机器人与自动化杂志</font></font></a></li>
+<li><a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4543165" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 触觉学报</font></font></a></li>
+<li><a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE 机器人学报</font></font></a></li>
+<li><a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE/ASME 机电一体化汇刊</font></font></a></li>
+<li><a href="http://www.springer.com/engineering/robotics/journal/12369" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">国际社交机器人杂志</font></font></a></li>
+<li><a href="http://www.journalfieldrobotics.org/Home.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现场机器人杂志</font></font></a></li>
+<li><a href="http://www.springer.com/engineering/robotics/journal/10846" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">智能与机器人系统杂志</font></font></a></li>
+<li><a href="http://www.journals.elsevier.com/mechatronics" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机电一体化</font></font></a></li>
+<li><a href="http://www.journals.elsevier.com/robotics-and-computer-integrated-manufacturing" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人与计算机集成制造</font></font></a></li>
+<li><a href="http://www.journals.elsevier.com/robotics-and-autonomous-systems" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人和自主系统</font></font></a></li>
+<li><a href="http://www.ijrr.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">国际机器人研究杂志</font></font></a></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-competitions" class="anchor" aria-hidden="true" tabindex="-1" href="#competitions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">比赛</font></font></h3>
+<ul dir="auto">
+<li><a href="http://www.icra2017.org/conference/robot-challenges" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ICRA 机器人挑战赛</font></font></a></li>
+<li><a href="http://www.robotchallenge.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人挑战赛</font></font></a></li>
+<li><a href="http://www.theroboticschallenge.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DARPA 机器人挑战赛</font></font></a></li>
+<li><a href="http://www.euroc-project.eu/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">欧洲机器人挑战赛</font></font></a></li>
+<li><a href="http://www.firstinspires.org/robotics/frc" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">首届机器人大赛</font></font></a></li>
+<li><a href="https://www.vexrobotics.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">VEX机器人大赛</font></font></a></li>
+<li><a href="http://www.robocup.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人杯</font></font></a></li>
+<li><a href="https://junior.robocup.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">青少年机器人杯</font></font></a></li>
+<li><a href="http://www.eurobot.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Eurobot</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">国际学生机器人大赛</font></font></li>
+<li><a href="https://www.robomaster.com/en-US" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机甲大师赛</font></font></a></li>
+<li><a href="http://www.robosoftca.eu/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RoboSoft，大挑战</font></font></a></li>
+<li><a href="http://www.igvc.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">智能地面车辆大赛</font></font></a></li>
+<li><a href="https://robotex.ee/en/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Robotex</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">欧洲最大的机器人节</font></font></li>
+<li><a href="https://www.firstlegoleague.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第一乐高联盟</font></font></a></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-companies" class="anchor" aria-hidden="true" tabindex="-1" href="#companies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">公司</font></font></h3>
+<ul dir="auto">
+<li><a href="http://www.bostondynamics.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">波士顿动力</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人研发公司，最先进的</font></font><a href="https://www.youtube.com/watch?v=rVlhMGQgDkY" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Atlas</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://www.youtube.com/watch?v=M8YjvHYbZ9w" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Spot</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人的创造者</font></font></li>
+<li><a href="http://www.irobot.com/" rel="nofollow"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">著名</font></font><a href="https://en.wikipedia.org/wiki/Roomba" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Roomba</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人吸尘器的</font><a href="http://www.irobot.com/" rel="nofollow"><font style="vertical-align: inherit;">iRobot制造商</font></a></font></li>
+<li><a href="http://pal-robotics.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">帕尔机器人公司</font></font></a></li>
+<li><a href="https://www.aldebaran.com/en" rel="nofollow"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"><a href="https://www.youtube.com/watch?v=nNbj2G3GmAo" rel="nofollow"><font style="vertical-align: inherit;">NAO 机器人的</font></a><a href="https://www.aldebaran.com/en" rel="nofollow"><font style="vertical-align: inherit;">Aldebaran Robotics</font></a><font style="vertical-align: inherit;">创始人</font></font><a href="https://www.youtube.com/watch?v=nNbj2G3GmAo" rel="nofollow"><font style="vertical-align: inherit;"></font></a></li>
+<li><a href="http://new.abb.com/products/robotics" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ABB Robotics</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最大的工业机器人制造商</font></font></li>
+<li><a href="http://www.kuka-robotics.com/en/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KUKA Robotics</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">针对工厂自动化的工业机器人主要制造商</font></font></li>
+<li><a href="http://www.fanucamerica.com/" rel="nofollow"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">拥有最大安装量的</font><a href="http://www.fanucamerica.com/" rel="nofollow"><font style="vertical-align: inherit;">发那科工业机器人制造商</font></a></font></li>
+<li><a href="http://www.rethinkrobotics.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rethink Robotics</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">协作机器人</font></font><a href="https://www.youtube.com/watch?v=fCML42boO8c" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Baxter的创造者</font></font></a></li>
+<li><a href="http://www.dji.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DJI</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大疆创新是满足商业和工业需求的无人机行业领导者。</font></font></li>
+<li><a href="http://www.theconstructsim.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建模拟</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  一种基于云的工具，用于构建现代的、面向未来的机器人模拟。</font></font></li>
+<li><a href="http://www.fetchrobotics.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fetch Robotics</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一家位于加利福尼亚州圣何塞的机器人初创公司，致力于打造电子商务履行和研发机器人的未来。</font></font></li>
+<li><a href="https://www.festo.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Festo 机器人</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Festo 以制造像 SmartBird 等海鸥、水母、蝴蝶和袋鼠等动物一样移动的移动机器人而闻名。</font></font></li>
+<li><a href="https://www.neobotix-robots.com/homepage" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Neobotix</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">工业、研究和定制移动机器人制造商。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-misc" class="anchor" aria-hidden="true" tabindex="-1" href="#misc"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">杂项</font></font></h3>
+<ul dir="auto">
+<li><a href="http://spectrum.ieee.org/robotics" rel="nofollow"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IEEE Spectrum 杂志的 IEEE </font><a href="http://spectrum.ieee.org/robotics" rel="nofollow"><font style="vertical-align: inherit;">Spectrum Robotics机器人部分</font></a></font></li>
+<li><a href="https://www.technologyreview.com/c/robotics/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工科技评论</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人学部分麻省理工科技评论杂志</font></font></li>
+<li><a href="https://www.reddit.com/r/robotics/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Reddit 机器人子 Reddit</font></font></a></li>
+<li><a href="http://roscon.ros.org/2015/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RosCON 会议（包括视频演讲）</font></font></a></li>
+<li><a href="http://education.rec.ri.cmu.edu/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">卡内基梅隆机器人学院</font></font></a></li>
+<li><a href="http://letsmakerobots.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">让我们一起制作机器人</font></font></a></li>
+<li><a href="https://www.quora.com/How-do-I-learn-robotics" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我如何学习机器人技术？</font></font></a></li>
+<li><a href="http://www.drgraeme.net/DrGraeme-free-NXT-G-tutorials/ChV4.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">免费 NXT 乐高 MindStorms NXT-G 代码教程</font></font></a></li>
+<li><a href="https://robotics.stackexchange.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">StackExachange 机器人社区</font></font></a></li>
+<li><a href="http://www.intorobotics.com/47-programmable-robotic-kits/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">47 个可编程机器人套件</font></font></a></li>
+<li><a href="https://linorobot.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Linorobot</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一套 DIY ROS 兼容机器人</font></font></li>
+<li><a href="https://github.com/mithi/hexapod"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">六足机器人模拟器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 在网络中求解并可视化六足机器人逆运动学和步态</font></font></li>
+<li><a href="https://github.com/AtsushiSakai/PythonRobotics"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PythonRobotics</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 在 python 中实现各种机器人算法</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-related-awesome-lists" class="anchor" aria-hidden="true" tabindex="-1" href="#related-awesome-lists"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">相关精彩列表</font></font></h3>
+<ul dir="auto">
+<li><a href="https://github.com/owainlewis/awesome-artificial-intelligence"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">令人敬畏的人工智能</font></font></a></li>
+<li><a href="https://github.com/jbhuang0604/awesome-computer-vision"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">很棒的计算机视觉</font></font></a></li>
+<li><a href="https://github.com/josephmisiti/awesome-machine-learning"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">很棒的机器学习</font></font></a></li>
+<li><a href="https://github.com/ChristosChristofidis/awesome-deep-learning"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">很棒的深度学习</font></font></a></li>
+<li><a href="https://github.com/kjw0612/awesome-deep-vision"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">令人惊叹的深度视觉</font></font></a></li>
+<li><a href="https://github.com/fkromer/awesome-gazebo"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">很棒的凉亭</font></font></a></li>
+<li><a href="https://github.com/aikorea/awesome-rl/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">很棒的强化学习</font></font></a></li>
+<li><a href="https://github.com/ahundt/awesome-robotics"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">很棒的机器人</font></font></a></li>
+<li><a href="https://github.com/jslee02/awesome-robotics-libraries"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">很棒的机器人库</font></font></a></li>
+<li><a href="https://github.com/fkromer/awesome-ros2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">很棒的 ROS2</font></font></a></li>
+<li><a href="https://github.com/RoboCupJuniorTC/awesome-rcj-soccer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">很棒的 RoboCup 青少年足球</font></font></a></li>
+</ul>
+</article></div>
